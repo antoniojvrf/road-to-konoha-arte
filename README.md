@@ -12,5 +12,6 @@ Servidas pelo jsDelivr: `https://cdn.jsdelivr.net/gh/antoniojvrf/road-to-konoha-
 | 05-taijutsu-genjutsu.webp | Cabeçalho de Ranks |
 | 07-sistemas.webp | Cabeçalho de Sistemas |
 | 08-armas.webp | Cabeçalho de Armas |
+| 09-mapa-mundo.webp | Mapa interativo do Mundo |
 
 04 e 05 são provisórias (capturas de Naruto Shippuden: Ultimate Ninja Storm 4, © Bandai Namco) e serão trocadas por artes próprias.
