@@ -13,5 +13,7 @@ Servidas pelo jsDelivr: `https://cdn.jsdelivr.net/gh/antoniojvrf/road-to-konoha-
 | 07-sistemas.webp | Cabeçalho de Sistemas |
 | 08-armas.webp | Cabeçalho de Armas |
 | 09-mapa-mundo.webp | Mapa interativo do Mundo |
+| 10-compartilhar.jpg | Cartão que aparece ao compartilhar o link (Discord, WhatsApp, redes) |
+| 11-icone-180.png · 12-icone-512.png | Ícone do site (aba do navegador e atalho no celular) |
 
 04 e 05 são provisórias (capturas de Naruto Shippuden: Ultimate Ninja Storm 4, © Bandai Namco) e serão trocadas por artes próprias.
